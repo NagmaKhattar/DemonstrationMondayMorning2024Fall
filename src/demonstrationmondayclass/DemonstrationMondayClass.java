@@ -22,6 +22,7 @@ public class DemonstrationMondayClass {
     //show history
     //gfshudkjhfuilfok,yj
     //demonstrating pull
+    //fetch and merge
     public static void main(String[] args) 
     {
         System.out.println("Hello");
